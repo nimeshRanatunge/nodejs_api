@@ -1,0 +1,2 @@
+install bodyparser package- allow us to pass json bodies and get some data by get data from requests
+npm install --save body-parser
